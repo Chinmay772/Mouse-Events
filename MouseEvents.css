@@ -1,0 +1,70 @@
+body{
+    margin: 0%;
+    background-color: #E0F4F9;
+}
+#btn{
+    text-align: center;
+    margin: 25px;
+}
+#events{
+    display:flex;
+    justify-content: center;
+    
+}
+#mouseover{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#mousedown{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#mouseup{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#click{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#mouseout{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#wheel{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#Dclick{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#met{
+    background-color: white;
+    padding: 10px;
+}
+#met-count{
+    background-color: #9AF990;
+    padding: 10px;
+    text-align: center;
+}
+#mouseenter{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+#mousemove{
+    background-color: #FFBE46;
+    padding: 20px;
+    margin: 25px;
+}
+p{
+    text-align: center;
+}
